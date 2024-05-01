@@ -2,12 +2,12 @@
   display: flex;
   margin: 0;
   align-items: center;
-  
+
   &__star {
     width: 16px;
     height: 16px;
     margin-left: 4px;
-    background-position: center;
+    background-position: left;
     background-repeat: no-repeat;
     background-image: url('../images/star.svg');
   }
